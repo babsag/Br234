@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera_helper_error_caf">Unable to start the camera</string>
+    <string name="camera_helper_no_camera_exception">No available camera can be found</string>
+    <string name="capture_processing_error_message">Ops, we had a problem processing the picture. Please try again</string>
+    <string name="certificate_invalid_caf">Invalid certificate</string>
+    <string name="check_caf">Check</string>
+    <string name="close_caf">Close</string>
+    <string name="error_700_message">Unable to perform this action. Please contact support.</string>
+    <string name="eyes_closed">"Don't wear sunglasses and keep your eyes open"</string>
+    <string name="face_not_found_caf">"Didn't find a face"</string>
+    <string name="face_register_caf">Face Register</string>
+    <string name="face_too_close_caf">Turn away your face</string>
+    <string name="face_too_far_caf">Bring your face closer</string>
+    <string name="fit_your_face_caf">Fit your face</string>
+    <string name="google_security_provider_error_caf">"Google Play Services SecurityProvider failed to upload. Without it we can't ensure that the HTTPS are secure"</string>
+    <string name="hold_it_caf">Hold it like this</string>
+    <string name="invalid_face_caf">"We couldn't capture your face. Please try again"</string>
+    <string name="low_storage_photo_caf">Unable to capture the photo. Does your device have free internal space?</string>
+    <string name="more_than_one_face_message">More than one face founded</string>
+    <string name="no_camera_permission">No camera permission</string>
+    <string name="not_center_x">Center your face vertically</string>
+    <string name="not_center_y">Center your face horizontally</string>
+    <string name="not_center_z">Your face is not straight to the mask</string>
+    <string name="nothing_caf">Nothing</string>
+    <string name="orientation_sensor_caf">The device is not on the vertical</string>
+    <string name="passive_face_liveness_file_caf">Selfie</string>
+    <string name="pfl_preview_subtitle">See if the photo is good for analysis</string>
+    <string name="photo_mask_caf">Photo Mask</string>
+    <string name="preview_accept">Yes, it looks ok!</string>
+    <string name="preview_title">The picture looks ok?</string>
+    <string name="preview_try_again">Try again</string>
+    <string name="sensor_light_caf">Area near you is too dark</string>
+    <string name="sensor_still_starting">Wait, sensors are still starting…</string>
+    <string name="sensor_unstable_caf">Keep the device still</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="verifying_liveness_caf">Verifying selfie…</string>
+    <string name="waiting_caf">Wait…</string>
+</resources>
